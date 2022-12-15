@@ -1,4 +1,3 @@
-import React from "react";
 import {TiHome, TiUser,  TiFlash} from 'react-icons/ti'
 import {RiServiceFill, RiShieldFill} from 'react-icons/ri'
 
