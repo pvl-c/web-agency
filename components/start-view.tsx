@@ -9,7 +9,7 @@ export function StartView() {
                 <span aria-hidden="true">YOUR WEB AGENCY</span>
             </h1>
             <div className="w-full flex justify-center">
-                <h1 className="text-4xl mt-6">We make it easy for you to get online</h1>
+                <h1 className="text-4xl mt-6">We make it easy for you to get online!</h1>
             </div>
         </div>
 
